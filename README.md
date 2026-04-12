@@ -1,7 +1,5 @@
 # Network-Security-Design-and-Segmentation
 
-## Overview
-
 This repository contains a network security design assignment completed as part of the
 Cyber Nation x Protexxa Cybersecurity Bootcamp. The assignment required designing a
 secure, segmented, and scalable network for a small company with fewer than 100
